@@ -4,6 +4,6 @@ const nextConfig = {
 }
 
 module.exports = {
-  basePath: !debug ? '/nortalpretrainingweek' : "",
-  assetPrefix: !debug ? '/nortalpretrainingweek/' : "",
+  basePath: !debug ? '/intrtoreactnextjs' : "",
+  assetPrefix: !debug ? '/intrtoreactnextjs/' : "",
 }
